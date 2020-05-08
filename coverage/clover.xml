@@ -1,46 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1581233614776" clover="3.2.0">
-  <project timestamp="1581233614776" name="All files">
-    <metrics statements="142" coveredstatements="142" conditionals="56" coveredconditionals="53" methods="30" coveredmethods="29" elements="228" coveredelements="224" complexity="0" loc="142" ncloc="142" packages="2" files="4" classes="4"/>
+<coverage generated="1588955776155" clover="3.2.0">
+  <project timestamp="1588955776155" name="All files">
+    <metrics statements="174" coveredstatements="174" conditionals="64" coveredconditionals="59" methods="39" coveredmethods="38" elements="277" coveredelements="271" complexity="0" loc="174" ncloc="174" packages="3" files="6" classes="6"/>
     <package name="src">
-      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
       <file name="index.ts" path="/Users/bobi/Study/dsaa/src/index.ts">
-        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
-        <line num="2" count="1" type="stmt"/>
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="2" count="2" type="stmt"/>
+        <line num="3" count="2" type="stmt"/>
       </file>
     </package>
     <package name="src.data-structure.linked-list">
       <metrics statements="141" coveredstatements="141" conditionals="56" coveredconditionals="53" methods="30" coveredmethods="29"/>
       <file name="index.ts" path="/Users/bobi/Study/dsaa/src/data-structure/linked-list/index.ts">
         <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
-        <line num="1" count="1" type="stmt"/>
-        <line num="2" count="1" type="stmt"/>
+        <line num="1" count="2" type="stmt"/>
+        <line num="2" count="2" type="stmt"/>
       </file>
       <file name="linked-list-node.ts" path="/Users/bobi/Study/dsaa/src/data-structure/linked-list/linked-list-node.ts">
         <metrics statements="7" coveredstatements="7" conditionals="4" coveredconditionals="4" methods="3" coveredmethods="3"/>
-        <line num="3" count="1" type="stmt"/>
+        <line num="3" count="2" type="stmt"/>
         <line num="9" count="181" type="cond" truecount="4" falsecount="0"/>
         <line num="10" count="91" type="stmt"/>
         <line num="11" count="91" type="stmt"/>
         <line num="12" count="91" type="stmt"/>
-        <line num="14" count="1" type="stmt"/>
+        <line num="14" count="2" type="stmt"/>
         <line num="16" count="91" type="stmt"/>
       </file>
       <file name="one-way-linked-list.ts" path="/Users/bobi/Study/dsaa/src/data-structure/linked-list/one-way-linked-list.ts">
         <metrics statements="132" coveredstatements="132" conditionals="52" coveredconditionals="49" methods="27" coveredmethods="26"/>
-        <line num="1" count="1" type="stmt"/>
-        <line num="11" count="1" type="stmt"/>
-        <line num="13" count="1" type="stmt"/>
+        <line num="1" count="2" type="stmt"/>
+        <line num="11" count="2" type="stmt"/>
+        <line num="13" count="2" type="stmt"/>
         <line num="20" count="80" type="cond" truecount="1" falsecount="1"/>
         <line num="21" count="40" type="stmt"/>
         <line num="22" count="40" type="stmt"/>
         <line num="23" count="40" type="stmt"/>
         <line num="24" count="40" type="stmt"/>
-        <line num="27" count="1" type="stmt"/>
+        <line num="27" count="2" type="stmt"/>
         <line num="28" count="21" type="stmt"/>
-        <line num="31" count="1" type="stmt"/>
+        <line num="31" count="2" type="stmt"/>
         <line num="32" count="3" type="cond" truecount="2" falsecount="0"/>
-        <line num="35" count="1" type="stmt"/>
+        <line num="35" count="2" type="stmt"/>
         <line num="36" count="4" type="stmt"/>
         <line num="37" count="4" type="stmt"/>
         <line num="39" count="4" type="stmt"/>
@@ -50,7 +51,7 @@
         <line num="47" count="2" type="stmt"/>
         <line num="48" count="6" type="stmt"/>
         <line num="50" count="2" type="stmt"/>
-        <line num="53" count="1" type="stmt"/>
+        <line num="53" count="2" type="stmt"/>
         <line num="54" count="79" type="stmt"/>
         <line num="56" count="79" type="cond" truecount="2" falsecount="0"/>
         <line num="57" count="33" type="stmt"/>
@@ -60,7 +61,7 @@
         <line num="64" count="46" type="stmt"/>
         <line num="65" count="46" type="stmt"/>
         <line num="67" count="46" type="stmt"/>
-        <line num="70" count="1" type="stmt"/>
+        <line num="70" count="2" type="stmt"/>
         <line num="71" count="7" type="stmt"/>
         <line num="72" count="7" type="stmt"/>
         <line num="74" count="7" type="cond" truecount="2" falsecount="0"/>
@@ -80,7 +81,7 @@
         <line num="96" count="2" type="stmt"/>
         <line num="97" count="2" type="stmt"/>
         <line num="99" count="2" type="stmt"/>
-        <line num="102" count="1" type="stmt"/>
+        <line num="102" count="2" type="stmt"/>
         <line num="103" count="9" type="stmt"/>
         <line num="104" count="9" type="stmt"/>
         <line num="106" count="9" type="stmt"/>
@@ -88,7 +89,7 @@
         <line num="108" count="7" type="stmt"/>
         <line num="110" count="6" type="stmt"/>
         <line num="113" count="2" type="stmt"/>
-        <line num="116" count="1" type="stmt"/>
+        <line num="116" count="2" type="stmt"/>
         <line num="117" count="10" type="cond" truecount="2" falsecount="0"/>
         <line num="118" count="7" type="stmt"/>
         <line num="120" count="7" type="cond" truecount="2" falsecount="0"/>
@@ -102,7 +103,7 @@
         <line num="133" count="4" type="stmt"/>
         <line num="134" count="4" type="stmt"/>
         <line num="136" count="4" type="stmt"/>
-        <line num="139" count="1" type="stmt"/>
+        <line num="139" count="2" type="stmt"/>
         <line num="140" count="8" type="cond" truecount="2" falsecount="0"/>
         <line num="142" count="7" type="stmt"/>
         <line num="144" count="7" type="cond" truecount="2" falsecount="0"/>
@@ -110,11 +111,11 @@
         <line num="148" count="2" type="stmt"/>
         <line num="151" count="7" type="stmt"/>
         <line num="153" count="7" type="stmt"/>
-        <line num="156" count="1" type="stmt"/>
+        <line num="156" count="2" type="stmt"/>
         <line num="157" count="1" type="stmt"/>
-        <line num="160" count="1" type="stmt"/>
+        <line num="160" count="2" type="stmt"/>
         <line num="161" count="5" type="stmt"/>
-        <line num="164" count="1" type="stmt"/>
+        <line num="164" count="2" type="stmt"/>
         <line num="165" count="4" type="stmt"/>
         <line num="166" count="4" type="stmt"/>
         <line num="167" count="4" type="stmt"/>
@@ -128,7 +129,7 @@
         <line num="177" count="2" type="stmt"/>
         <line num="178" count="2" type="stmt"/>
         <line num="181" count="1" type="stmt"/>
-        <line num="184" count="1" type="stmt"/>
+        <line num="184" count="2" type="stmt"/>
         <line num="185" count="5" type="stmt"/>
         <line num="188" count="7" type="cond" truecount="1" falsecount="1"/>
         <line num="189" count="7" type="stmt"/>
@@ -140,11 +141,11 @@
         <line num="198" count="2" type="stmt"/>
         <line num="199" count="2" type="stmt"/>
         <line num="201" count="2" type="stmt"/>
-        <line num="204" count="1" type="stmt"/>
+        <line num="204" count="2" type="stmt"/>
         <line num="205" count="1" type="stmt"/>
         <line num="206" count="1" type="stmt"/>
         <line num="208" count="1" type="stmt"/>
-        <line num="211" count="1" type="stmt"/>
+        <line num="211" count="2" type="stmt"/>
         <line num="212" count="1" type="stmt"/>
         <line num="213" count="1" type="stmt"/>
         <line num="214" count="1" type="stmt"/>
@@ -156,10 +157,50 @@
         <line num="223" count="1" type="stmt"/>
         <line num="224" count="1" type="stmt"/>
         <line num="226" count="1" type="stmt"/>
-        <line num="229" count="1" type="stmt"/>
+        <line num="229" count="2" type="stmt"/>
         <line num="230" count="4" type="cond" truecount="2" falsecount="0"/>
         <line num="231" count="6" type="stmt"/>
-        <line num="233" count="1" type="stmt"/>
+        <line num="233" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.data-structure.queue">
+      <metrics statements="31" coveredstatements="31" conditionals="8" coveredconditionals="6" methods="9" coveredmethods="9"/>
+      <file name="circle-queue.ts" path="/Users/bobi/Study/dsaa/src/data-structure/queue/circle-queue.ts">
+        <metrics statements="30" coveredstatements="30" conditionals="8" coveredconditionals="6" methods="9" coveredmethods="9"/>
+        <line num="1" count="2" type="stmt"/>
+        <line num="10" count="2" type="cond" truecount="2" falsecount="2"/>
+        <line num="11" count="1" type="stmt"/>
+        <line num="12" count="1" type="stmt"/>
+        <line num="13" count="5" type="stmt"/>
+        <line num="15" count="1" type="stmt"/>
+        <line num="16" count="1" type="stmt"/>
+        <line num="19" count="2" type="stmt"/>
+        <line num="20" count="13" type="stmt"/>
+        <line num="23" count="2" type="stmt"/>
+        <line num="24" count="22" type="stmt"/>
+        <line num="27" count="2" type="stmt"/>
+        <line num="28" count="21" type="stmt"/>
+        <line num="31" count="2" type="stmt"/>
+        <line num="32" count="7" type="cond" truecount="2" falsecount="0"/>
+        <line num="33" count="6" type="stmt"/>
+        <line num="34" count="6" type="stmt"/>
+        <line num="35" count="6" type="stmt"/>
+        <line num="36" count="6" type="stmt"/>
+        <line num="39" count="2" type="stmt"/>
+        <line num="40" count="6" type="cond" truecount="2" falsecount="0"/>
+        <line num="41" count="5" type="stmt"/>
+        <line num="42" count="5" type="stmt"/>
+        <line num="43" count="5" type="stmt"/>
+        <line num="44" count="5" type="stmt"/>
+        <line num="47" count="2" type="stmt"/>
+        <line num="48" count="1" type="stmt"/>
+        <line num="49" count="1" type="stmt"/>
+        <line num="50" count="1" type="stmt"/>
+        <line num="52" count="2" type="stmt"/>
+      </file>
+      <file name="index.ts" path="/Users/bobi/Study/dsaa/src/data-structure/queue/index.ts">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="2" type="stmt"/>
       </file>
     </package>
   </project>
